@@ -1,0 +1,16 @@
+.swiper {
+  max-width: 950px;
+  height: 500px;
+  border-radius: 15px;
+  padding: 10px;
+  
+}
+.mySwiper{
+    border: 10px solid turquoise;
+    padding: 10px;
+}
+@media (min-width: 1200px) {
+  .swiper{
+    max-width: 1110px;
+  }
+  }

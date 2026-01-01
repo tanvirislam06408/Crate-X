@@ -1,0 +1,68 @@
+[
+    {
+    "id": 2,
+    "name": "Gamer's Edge Crate",
+    "thumbnail": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&q=80&w=400",
+    "banner": "https://images.unsplash.com/photo-1511512578047-dfb367046420?auto=format&fit=crop&q=80&w=1200",
+    "frequency": "Monthly",
+    "price": 49.99,
+    "description": "Level up your setup with premium peripherals, exclusive indie game codes, and high-performance gaming snacks.",
+    "tech_category": "Gaming",
+    "features": [
+      "Mechanical Keycaps",
+      "Pro-grade Mousepads",
+      "Steam Game Keys"
+    ],
+    "subscription_benefits": [
+      "Beta Access to New Titles",
+      "Monthly Hardware Giveaway Entry",
+      "Member-only Discord Rank"
+    ],
+    "ratings": 4.9,
+    "number_of_reviews": 842
+  },
+  {
+    "id": 3,
+    "name": "Mobile Pro Kit",
+    "thumbnail": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&q=80&w=400",
+    "banner": "https://images.unsplash.com/photo-1556656793-062ff987b415?auto=format&fit=crop&q=80&w=1200",
+    "frequency": "Quarterly",
+    "price": 89.00,
+    "description": "Essential gear for the modern mobile professional, including high-speed power banks and sleek protective cases.",
+    "tech_category": "Mobile Tech",
+    "features": [
+      "GaN Fast Chargers",
+      "MagSafe Accessories",
+      "Braided USB-C Cables"
+    ],
+    "subscription_benefits": [
+      "Accidental Damage Insurance",
+      "Early Smartphone Launch Alerts",
+      "Trade-in Bonus Credits"
+    ],
+    "ratings": 4.7,
+    "number_of_reviews": 512
+  },
+  {
+    "id": 4,
+    "name": "Audio Enthusiast Box",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&q=80&w=400",
+    "banner": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?auto=format&fit=crop&q=80&w=1200",
+    "frequency": "Monthly",
+    "price": 75.50,
+    "description": "Experience crystal clear sound with curated high-fidelity audio equipment and studio-grade accessories.",
+    "tech_category": "Audio",
+    "features": [
+      "Hi-Fi IEMs",
+      "Portable DACs",
+      "Memory Foam Eartips"
+    ],
+    "subscription_benefits": [
+      "Lossless Music Streaming Sub",
+      "Expert Tuning Guides",
+      "VIP Concert Ticket Access"
+    ],
+    "ratings": 4.6,
+    "number_of_reviews": 210
+  }
+]

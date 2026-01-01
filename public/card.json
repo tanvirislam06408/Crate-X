@@ -1,0 +1,134 @@
+[
+  {
+    "id": 2,
+    "name": "Gamer's Edge Crate",
+    "thumbnail": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&q=80&w=400",
+    "banner": "https://images.unsplash.com/photo-1511512578047-dfb367046420?auto=format&fit=crop&q=80&w=1200",
+    "frequency": "Monthly",
+    "price": 49.99,
+    "description": "Level up your setup with premium peripherals, exclusive indie game codes, and high-performance gaming snacks.",
+    "tech_category": "Gaming",
+    "features": [
+      "Mechanical Keycaps",
+      "Pro-grade Mousepads",
+      "Steam Game Keys"
+    ],
+    "subscription_benefits": [
+      "Beta Access to New Titles",
+      "Monthly Hardware Giveaway Entry",
+      "Member-only Discord Rank"
+    ],
+    "ratings": 4.9,
+    "number_of_reviews": 842
+  },
+  {
+    "id": 3,
+    "name": "Mobile Pro Kit",
+    "thumbnail": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&q=80&w=400",
+    "banner": "https://images.unsplash.com/photo-1556656793-062ff987b415?auto=format&fit=crop&q=80&w=1200",
+    "frequency": "Quarterly",
+    "price": 89.00,
+    "description": "Essential gear for the modern mobile professional, including high-speed power banks and sleek protective cases.",
+    "tech_category": "Mobile Tech",
+    "features": [
+      "GaN Fast Chargers",
+      "MagSafe Accessories",
+      "Braided USB-C Cables"
+    ],
+    "subscription_benefits": [
+      "Accidental Damage Insurance",
+      "Early Smartphone Launch Alerts",
+      "Trade-in Bonus Credits"
+    ],
+    "ratings": 4.7,
+    "number_of_reviews": 512
+  },
+  {
+    "id": 4,
+    "name": "Audio Enthusiast Box",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&q=80&w=400",
+    "banner": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?auto=format&fit=crop&q=80&w=1200",
+    "frequency": "Monthly",
+    "price": 75.50,
+    "description": "Experience crystal clear sound with curated high-fidelity audio equipment and studio-grade accessories.",
+    "tech_category": "Audio",
+    "features": [
+      "Hi-Fi IEMs",
+      "Portable DACs",
+      "Memory Foam Eartips"
+    ],
+    "subscription_benefits": [
+      "Lossless Music Streaming Sub",
+      "Expert Tuning Guides",
+      "VIP Concert Ticket Access"
+    ],
+    "ratings": 4.6,
+    "number_of_reviews": 210
+  },
+  {
+    "id": 5,
+    "name": "Developer Hub Pack",
+    "thumbnail": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&q=80&w=400",
+    "banner": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&q=80&w=1200",
+    "frequency": "Yearly",
+    "price": 299.00,
+    "description": "Fuel your coding sessions with productivity tools, ergonomic desk gear, and premium software licenses.",
+    "tech_category": "Software",
+    "features": [
+      "IDE License Extensions",
+      "Vertical Mouse Options",
+      "Mechanical Switch Samplers"
+    ],
+    "subscription_benefits": [
+      "Private Repo Hosting",
+      "Cloud Credits (AWS/Azure)",
+      "Technical Book Discounts"
+    ],
+    "ratings": 4.8,
+    "number_of_reviews": 1240
+  },
+  {
+    "id": 6,
+    "name": "Creator Lens Bundle",
+    "thumbnail": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&q=80&w=400",
+    "banner": "https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?auto=format&fit=crop&q=80&w=1200",
+    "frequency": "Quarterly",
+    "price": 145.00,
+    "description": "Everything you need to capture stunning content, from lighting kits to specialized camera filters.",
+    "tech_category": "Photography",
+    "features": [
+      "ND Filter Sets",
+      "Portable Ring Lights",
+      "High-speed SD Cards"
+    ],
+    "subscription_benefits": [
+      "Lightroom Preset Packs",
+      "Cloud Storage for 4K Video",
+      "Masterclass on Composition"
+    ],
+    "ratings": 4.5,
+    "number_of_reviews": 388
+  },
+  {
+    "id": 7,
+    "name": "Smart Fitness Gear",
+    "thumbnail": "https://images.unsplash.com/photo-1575311373937-040b8e1fd5b6?auto=format&fit=crop&q=80&w=400",
+    "banner": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&q=80&w=1200",
+    "frequency": "Monthly",
+    "price": 55.00,
+    "description": "Track your progress and optimize your health with the latest wearable tech and bio-feedback sensors.",
+    "tech_category": "Health Tech",
+    "features": [
+      "Heart Rate Monitors",
+      "Smart Water Bottles",
+      "Replacement Sensor Straps"
+    ],
+    "subscription_benefits": [
+      "Personalized AI Coaching",
+      "Nutritional Tracking Pro",
+      "Gym Partner Networking"
+    ],
+    "ratings": 4.7,
+    "number_of_reviews": 625
+  }
+]
