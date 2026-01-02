@@ -8,7 +8,7 @@ import Footer from '../Components/Footer';
 const HomeLayout = () => {
     return (
         <div>
-          <header><Navbar></Navbar></header>
+          <header className='mb-3'><Navbar></Navbar></header>
           <main>
             {/* home slider */}
            <section>
